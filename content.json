@@ -1,0 +1,59 @@
+{
+  "business_name": "Oasis Pool Service Orange County CA",
+  "phone": "(949) 864-9969",
+  "email": "INFO@OASISPOOLSOC.COM",
+  "address": "Orange County, CA",
+  "hours": null,
+  "taglines": [
+    "Here to make your life easier!",
+    "Providing Exceptional Swimming Pool Service"
+  ],
+  "about_text": "Oasis Pool Services is a commercial pool service provider in Southern California, emphasizing continuous improvement, professionalism, and dependability. A family owned & operated small business serving HOAs, apartment buildings, mobile home parks, hotels, and communities throughout Orange County. Our uniformed technicians and marked service vehicles reflect our professional standards. We assign consistent technicians for regular clients.",
+  "stats": [
+    "With over a million swimming pool service calls over the past 16 years in CA"
+  ],
+  "services": [
+    {
+      "name": "Pool Service & Maintenance",
+      "description": "Routine upkeep including vacuuming, sweeping, tile cleaning, algae removal, surface skimming, strainer box cleaning, chemical testing and pH balancing, water level refilling, filter backwashing, chemical feeder maintenance, equipment checks (pumps, filters, disinfectant systems, gauges), and safety gate inspections."
+    },
+    {
+      "name": "Commercial Pool Services",
+      "description": "Comprehensive commercial pool care for HOAs, apartment/condo complexes, commercial properties, and community pools. We take the hassle out of maintenance, compliance and repairs."
+    },
+    {
+      "name": "Repairs & Remodels",
+      "description": "Pool renovations, filtration system replacements, pump/filter upgrades, and projects of any size."
+    },
+    {
+      "name": "Scheduled Maintenance",
+      "description": "Quarterly and bi-monthly services including filter disassembly and acid washing, tank cleaning, diatomaceous earth replacement, chlorinator servicing, total dissolved solids testing, and safety equipment inspections (gates, locks, lights)."
+    }
+  ],
+  "service_areas": [
+    "San Clemente", "Dana Point", "Laguna Niguel", "Newport Beach",
+    "Huntington Beach", "Irvine", "Costa Mesa", "Anaheim"
+  ],
+  "team_members": [
+    {"name": "Jacqueline Harvey", "title": "CEO", "image": "assets/images/img-4193_orig.jpeg"},
+    {"name": "Kel Harvey", "title": "Accounts Manager", "image": "assets/images/img-4195_orig.jpg"},
+    {"name": "Austen Elei", "title": "Admin/Accounts", "image": "assets/images/img-4204_orig.jpeg"},
+    {"name": "Zachary Maui", "title": "Service Manager", "image": "assets/images/hero-bg.jpg"}
+  ],
+  "testimonials": [],
+  "social_links": {},
+  "brand_colors": {
+    "primary": "#1a6fa8",
+    "secondary": "#0d4f7c"
+  },
+  "images_downloaded": [
+    "assets/images/pool-1_orig.jpg",
+    "assets/images/screen-shot-2019-06-06-at-5-05-05-pm_orig.png",
+    "assets/images/img-4193_orig.jpeg",
+    "assets/images/img-4195_orig.jpg",
+    "assets/images/img-4204_orig.jpeg",
+    "assets/images/hero-bg.jpg",
+    "assets/images/100446266_orig.jpg",
+    "assets/images/pool-service-company-1024x683_1_orig.jpg"
+  ]
+}
